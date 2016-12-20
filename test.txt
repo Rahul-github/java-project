@@ -19,9 +19,12 @@ test
 04212016
 test
 testing a b c
+<<<<<<< HEAD
 test a b
 Randy Test2 12/07/2016
 test a b c
+=======
+>>>>>>> 73a0daf4b6fbc75302899d978fe66f575bdeddaf
 test a b c d
 5-16-16 a b c
 
